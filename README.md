@@ -1,1 +1,1 @@
-# Camp
+# Camp - this project utilizes full persistent CRUD (Create, Read, Update, Delete) functionality. In addition, authentication and authorisation are implemented as well. Users can register and login to create, review and delete campgrounds. Essentially when locations of the campgrounds are existing, they will be pointed on the map. This project was built using MongoDB (Mongoose) and mapbox and is part of an online Udemy course "The Web Developer Bootcamp 2022" by instructor Colt Steele. -- csmanyaka2012
